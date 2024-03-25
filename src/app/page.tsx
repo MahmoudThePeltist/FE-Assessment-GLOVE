@@ -148,7 +148,7 @@ export default function Home() {
             Join a team where innovation is an expectation
           </h2>
           <h6 className="text-md font-m mb-2">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type specimen book.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type specimen book.
           </h6>
           <h6 className="text-md font-m mb-8">
             It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
@@ -230,7 +230,7 @@ export default function Home() {
       <section className="discover-section pb-0 py-10 px-0 md:px-20">
         <div className="grid lg:grid-cols-2 mb-5 fade-in">
           <h2 className="title font-b text-textDark text-center lg:text-left">
-            Discover the Rising<br />Stars We've Backed
+            Discover the Rising<br />Stars We&apos;ve Backed
           </h2>
 
           <div className="flex justify-center px-5 md:px-0 lg:justify-end">
